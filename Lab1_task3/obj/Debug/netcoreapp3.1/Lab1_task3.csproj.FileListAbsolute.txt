@@ -1,0 +1,16 @@
+D:\Study\Visual studio study\Lab1_task3\Lab1_task3\obj\Debug\netcoreapp3.1\Lab1_task3.csproj.AssemblyReference.cache
+D:\Study\Visual studio study\Lab1_task3\Lab1_task3\obj\Debug\netcoreapp3.1\Lab1_task3.Form1.resources
+D:\Study\Visual studio study\Lab1_task3\Lab1_task3\obj\Debug\netcoreapp3.1\Lab1_task3.csproj.GenerateResource.cache
+D:\Study\Visual studio study\Lab1_task3\Lab1_task3\obj\Debug\netcoreapp3.1\Lab1_task3.GeneratedMSBuildEditorConfig.editorconfig
+D:\Study\Visual studio study\Lab1_task3\Lab1_task3\obj\Debug\netcoreapp3.1\Lab1_task3.AssemblyInfoInputs.cache
+D:\Study\Visual studio study\Lab1_task3\Lab1_task3\obj\Debug\netcoreapp3.1\Lab1_task3.AssemblyInfo.cs
+D:\Study\Visual studio study\Lab1_task3\Lab1_task3\obj\Debug\netcoreapp3.1\Lab1_task3.csproj.CoreCompileInputs.cache
+D:\Study\Visual studio study\Lab1_task3\Lab1_task3\bin\Debug\netcoreapp3.1\Lab1_task3.exe
+D:\Study\Visual studio study\Lab1_task3\Lab1_task3\bin\Debug\netcoreapp3.1\Lab1_task3.deps.json
+D:\Study\Visual studio study\Lab1_task3\Lab1_task3\bin\Debug\netcoreapp3.1\Lab1_task3.runtimeconfig.json
+D:\Study\Visual studio study\Lab1_task3\Lab1_task3\bin\Debug\netcoreapp3.1\Lab1_task3.runtimeconfig.dev.json
+D:\Study\Visual studio study\Lab1_task3\Lab1_task3\bin\Debug\netcoreapp3.1\Lab1_task3.dll
+D:\Study\Visual studio study\Lab1_task3\Lab1_task3\bin\Debug\netcoreapp3.1\Lab1_task3.pdb
+D:\Study\Visual studio study\Lab1_task3\Lab1_task3\obj\Debug\netcoreapp3.1\Lab1_task3.dll
+D:\Study\Visual studio study\Lab1_task3\Lab1_task3\obj\Debug\netcoreapp3.1\Lab1_task3.pdb
+D:\Study\Visual studio study\Lab1_task3\Lab1_task3\obj\Debug\netcoreapp3.1\Lab1_task3.genruntimeconfig.cache
